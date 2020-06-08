@@ -1,5 +1,5 @@
 # graf-view
-
+Для теста нажать Т в NAV баре
 ## Project setup
 ```
 npm install
